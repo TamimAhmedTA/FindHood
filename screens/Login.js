@@ -49,6 +49,9 @@ function Login() {
         <Pressable style={styles.button} onPress={() => Alert.alert("Login Successful!")}>
           <Text style={styles.buttonText}>LOGIN</Text>
         </Pressable>
+        <View>
+          
+        </View>
       </View>
 
       <Text style={styles.footerText}>Don't Have Account? </Text>
